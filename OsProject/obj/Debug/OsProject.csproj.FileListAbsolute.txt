@@ -1,0 +1,9 @@
+c:\users\kopezaur\documents\visual studio 2017\Projects\OsProject\OsProject\bin\Debug\OsProject.exe.config
+c:\users\kopezaur\documents\visual studio 2017\Projects\OsProject\OsProject\bin\Debug\OsProject.exe
+c:\users\kopezaur\documents\visual studio 2017\Projects\OsProject\OsProject\bin\Debug\OsProject.pdb
+c:\users\kopezaur\documents\visual studio 2017\Projects\OsProject\OsProject\obj\Debug\OsProject.csprojResolveAssemblyReference.cache
+c:\users\kopezaur\documents\visual studio 2017\Projects\OsProject\OsProject\obj\Debug\OsProject.Form1.resources
+c:\users\kopezaur\documents\visual studio 2017\Projects\OsProject\OsProject\obj\Debug\OsProject.Properties.Resources.resources
+c:\users\kopezaur\documents\visual studio 2017\Projects\OsProject\OsProject\obj\Debug\OsProject.csproj.GenerateResource.Cache
+c:\users\kopezaur\documents\visual studio 2017\Projects\OsProject\OsProject\obj\Debug\OsProject.exe
+c:\users\kopezaur\documents\visual studio 2017\Projects\OsProject\OsProject\obj\Debug\OsProject.pdb
